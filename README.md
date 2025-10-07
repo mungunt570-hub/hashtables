@@ -10,8 +10,10 @@ This is **bold text**.
 This is *italicized text*
 
 This is what he said:
-Hello
-How are you
+
+> Hello
+> How are you
+
 
 Here is an **ordered** list:
 1. one
@@ -23,14 +25,13 @@ Here is a bullet list:
 - two
 - three
 
-The way to create a Dart project is to write 'Dart create .' in the terminal.
+The way to create a Dart project is to write `Dart create .` in the terminal.
 
 Next copy and paste the following code:
-
-
+```
 void main() {
     print("Hello world")
 }
-
+```
 
 Visit [website] (https://www.markdownguide.org/cheat-sheet/)
